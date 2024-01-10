@@ -5,7 +5,7 @@
 
 .container{
   background: url(assets/arkaplan.jpg);
-  height: 100vh;
+  height: 200vh;
   background-size: 100% 100%;
 }
 .navbar{
@@ -72,4 +72,9 @@
   column-gap: 20px;
   text-decoration: none;
   line-height: 50px;
+}
+.tamer{
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 500px;
 }
