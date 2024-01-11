@@ -15,6 +15,11 @@
     margin-left: 250px;
     word-spacing: 450px;
 }
+.hatchbacktext a{
+    text-decoration: none;
+    color: black;
+    border-radius: 20px;
+}
 .model{
     display: flex;
 }
