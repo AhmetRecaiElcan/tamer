@@ -1,3 +1,8 @@
 .hatchback{
     margin-right: 500px;
 }
+.background{
+    background: url(assets/arkaplan.jpg);
+    height: 400vh;
+    background-size: 80% 80%;
+  }
