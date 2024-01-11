@@ -5,4 +5,16 @@
     background: url(assets/arkaplan.jpg);
     height: 400vh;
     background-size: 80% 80%;
-  }
+}
+.hatchback{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 8px;
+}
+.hatchbacktext{
+    margin-left: 250px;
+    word-spacing: 450px;
+}
+.model{
+    display: flex;
+}
