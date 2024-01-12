@@ -65,28 +65,3 @@
   .dropdown:hover .dropbtn {
     background-color: #000080;
   }
-  
-  .borderless{
-    border: none;
-    margin-left: 500px;
-    column-gap: 20px;
-    text-decoration: none;
-    line-height: 50px;
-  }
-  .tamer{
-      margin-top: 200px;
-      margin-left: 400px;
-      margin-right: 500px;
-      font-size: 20px;
-  }
-  .resimm{
-    width: 400px;
-    height: 300px; 
-    margin-left: 50px;
-    float: left;
-  }
-  .table{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }

@@ -12,12 +12,6 @@
   margin: 0;
   padding: 0;
 }
-
-.container{
-  background: url(assets/arkaplan.jpg);
-  height: 400vh;
-  background-size: 80% 80%;
-}
 .navbar{
   width: 100%;
   height: 100px;
