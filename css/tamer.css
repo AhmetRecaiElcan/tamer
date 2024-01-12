@@ -3,7 +3,29 @@
   padding: 0;
 }
 
-.container{
+.content{min-height: 600px;
+}
+.banner-image{padding-bottom: 80px;
+  margin-bottom: 0px;
+  text-align: center; 
+  color: #f8f8f8;
+  background: URL(./assets/foto1.2.jpg);
+  background-size: cover;
+}
+.inner-banner-image{padding-top: 12%;
+        width:80%;
+        background-position:center; 
+        margin:auto;
+}
+.banner_content{position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    overflow:hidden;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+.modelresim{
   background: url(assets/arkaplan.jpg);
   height: 400vh;
   background-size: 80% 80%;
