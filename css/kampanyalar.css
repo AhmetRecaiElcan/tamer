@@ -65,3 +65,6 @@
   .dropdown:hover .dropbtn {
     background-color: #000080;
   }
+  .hizalama{
+    display: flex;
+  }
