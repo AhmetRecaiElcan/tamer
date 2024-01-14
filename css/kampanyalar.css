@@ -68,3 +68,8 @@
   .hizalama{
     display: flex;
   }
+  .table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
