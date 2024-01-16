@@ -19,7 +19,7 @@
 }
 .logo{
   display: inline-block;
-  margin-left: 400px;
+  margin-left: 350px;
   font-size: 500%;
   margin-top: 20px;
 }
@@ -68,10 +68,6 @@
 
 .dropdown:hover .dropbtn {
   background-color: #000080;
-}
-
-.hatchback{
-    margin-right: 500px;
 }
 
 .hatchback{

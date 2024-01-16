@@ -1,0 +1,94 @@
+.background{
+    background: url(assets/arkaplan.jpg);
+    height: 700vh;
+    background-size: 80% 80%;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .navbar{
+    width: 100%;
+    height: 100px;
+    background: rgba(22,112,214,0.4)
+  }
+  .logo{
+    display: inline-block;
+    margin-left: 350px;
+    font-size: 500%;
+    margin-top: 20px;
+  }
+  .navbar ul{
+    float: left;
+    margin-right: 20px;
+  }
+  .dropbtn {
+    border-radius: 30px;
+    background-color: rgb(3, 4, 64);
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #000080;
+  }
+
+  .table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .content{min-height: 600px;
+  }
+  .banner-image{padding-bottom: 80px;
+    margin-bottom: 0px;
+    text-align: center; 
+    color: #f8f8f8;
+    background: URL(üstgolf.jpg);
+    background-size: cover;
+  }
+  .inner-banner-image{padding-top: 12%;
+          width:80%;
+          background-position:center; 
+          margin:auto;
+  }
+  .banner_content{position: relative;
+      padding-top: 6%;
+      padding-bottom: 6%;
+      overflow:hidden;
+      margin-bottom: 12%;
+      max-width: 660px;
+  }
