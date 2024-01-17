@@ -17,7 +17,7 @@ body{
 }
   
   .modelresim{
-    background: url(assets/arkaplan.jpg);
+    background: url(../modellerımage/arkaplan.jpg);
     height: 400vh;
     background-size: 80% 80%;
   }
