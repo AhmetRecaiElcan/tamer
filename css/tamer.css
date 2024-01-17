@@ -17,7 +17,7 @@ body{
   margin-bottom: 0px;
   text-align: center; 
   color: #f8f8f8;
-  background: URL(foto1.2.jpg);
+  background: URL(../css/assets/foto1.2.jpg);
   background-size: cover;
 }
 .inner-banner-image{padding-top: 12%;
