@@ -1,5 +1,5 @@
 .background{
-    background: url(assets/arkaplan.jpg);
+    background: URL(../modellerımage/arkaplan.jpg);
     height: 700vh;
     background-size: 80% 80%;
   }
@@ -77,7 +77,7 @@
     margin-bottom: 0px;
     text-align: center; 
     color: #f8f8f8;
-    background: URL(üsttaigo.jpg);
+    background: URL(../modellerımage/../modellerımage/üstpolo.jpg);
     background-size: cover;
   }
   .inner-banner-image{padding-top: 12%;
