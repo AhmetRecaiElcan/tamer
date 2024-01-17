@@ -1,0 +1,14 @@
+<div class="modelresim">
+        <div class="navbar">
+            <ul>
+                    <li><a href="../index.html">Ana Sayfa</a></li>
+                    <li><a href="../fiyat.html">Fiyat Listesi</a></li>
+                    <li><a href="../modeller/modeller.html">Modeller</a></li>
+                    <li><a href="../satış.html">Satış Sonrası</a></li>
+                    <li><a href="../kampanyalar.html">Kampanyalar</a></li>
+                    <li><a href="../iletişim.html">İletişim Ve Destek</a></li>
+                    <li><a href="./ticari/ticari.html">Ticari Modeller</a></li>
+    
+            </ul>
+            <img src="../css/assets/tasarım.png"  alt="" style="margin-left: 15px;">
+        </div>   
