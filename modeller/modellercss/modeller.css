@@ -18,7 +18,7 @@ body{
   
   .modelresim{
     background: url(../modellerımage/arkaplan.jpg);
-    height: 800vh;
+    height: 500vh;
     background-size: 80% 80%;
   }
   .navbar{
